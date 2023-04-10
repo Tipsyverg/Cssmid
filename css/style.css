@@ -55,4 +55,16 @@ font-size: 300;
     background-color: black;
     color: white;
  }
+ #blog div div {
+    flex: 1;
+    padding: 20px;
+
+ }
+ #blog div img{
+    width: 100%;
+    max-width: 200px;
+    object-fit: cover;
+    object-position: center;
+
+ }
 
