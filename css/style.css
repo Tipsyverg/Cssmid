@@ -110,3 +110,6 @@ font-size: 300;
     text-align: center;
     background-color: white;
  }
+ #services li :hover {
+    background-color: orangered;
+ }
